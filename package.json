@@ -1,0 +1,25 @@
+{
+  "name": "c10-sampleexpressserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvolveU-FSD/c10-sampleExpressServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvolveU-FSD/c10-sampleExpressServer/issues"
+  },
+  "homepage": "https://github.com/EvolveU-FSD/c10-sampleExpressServer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
